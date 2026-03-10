@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Boys & Girls",
+  "base_artist": "浜崎あゆみ",
+  "createdAt": "2026-03-10T16:31:12.467020Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "A Few Ole Country Boys",
+      "artist": "Randy Travis & George Jones",
+      "has_synced": false,
+      "path": "select/01_A_Few_Ole_Country_Boys_Randy_Travis_&_George_Jones.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Bayou Boys",
+      "artist": "Eddy Raven",
+      "has_synced": false,
+      "path": "select/02_Bayou_Boys_Eddy_Raven.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Blue Collar Boys",
+      "artist": "Frank Foster",
+      "has_synced": true,
+      "path": "select/03_Blue_Collar_Boys_Frank_Foster.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Blue Collar Boys",
+      "artist": "Luke Combs",
+      "has_synced": true,
+      "path": "select/04_Blue_Collar_Boys_Luke_Combs.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Boys 'Round Here",
+      "artist": "Blake Shelton feat. Pistol Annies & Friends",
+      "has_synced": true,
+      "path": "select/05_Boys_'Round_Here_Blake_Shelton_feat._Pistol_Annies_&_Friends.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Boys 'Round Here (feat. Pistol Annies & Friends)",
+      "artist": "Blake Shelton",
+      "has_synced": true,
+      "path": "select/06_Boys_'Round_Here_(feat._Pistol_Annies_&_Friends)_Blake_Shelton.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Boys Back Home",
+      "artist": "Hailey Whitters",
+      "has_synced": true,
+      "path": "select/07_Boys_Back_Home_Hailey_Whitters.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Boys From Oklahoma",
+      "artist": "Cross Canadian Ragweed",
+      "has_synced": true,
+      "path": "select/08_Boys_From_Oklahoma_Cross_Canadian_Ragweed.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Boys Like Trucks",
+      "artist": "Troy Cartwright",
+      "has_synced": false,
+      "path": "select/09_Boys_Like_Trucks_Troy_Cartwright.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Boys Like Trucks",
+      "artist": "Troy Cartwright",
+      "has_synced": false,
+      "path": "select/10_Boys_Like_Trucks_Troy_Cartwright.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Broken Boys",
+      "artist": "Nicole Rayy",
+      "has_synced": true,
+      "path": "select/11_Broken_Boys_Nicole_Rayy.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Crackin’ Cold Ones With the Boys",
+      "artist": "The Cadillac Three",
+      "has_synced": true,
+      "path": "select/12_Crackin’_Cold_Ones_With_the_Boys_The_Cadillac_Three.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Down Home Boys",
+      "artist": "Cole Swindell",
+      "has_synced": true,
+      "path": "select/13_Down_Home_Boys_Cole_Swindell.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Good Ole Boys Like Me",
+      "artist": "Don Williams",
+      "has_synced": true,
+      "path": "select/14_Good_Ole_Boys_Like_Me_Don_Williams.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Good Ole Boys Like Me (Single Version)",
+      "artist": "Don Williams",
+      "has_synced": true,
+      "path": "select/15_Good_Ole_Boys_Like_Me_(Single_Version)_Don_Williams.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Good Ole Boys Like Me (Single Version)",
+      "artist": "Don Williams",
+      "has_synced": true,
+      "path": "select/16_Good_Ole_Boys_Like_Me_(Single_Version)_Don_Williams.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Highway Boys",
+      "artist": "Zach Bryan",
+      "has_synced": true,
+      "path": "select/17_Highway_Boys_Zach_Bryan.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Just Good Ol' Boys",
+      "artist": "Moe Bandy",
+      "has_synced": false,
+      "path": "select/18_Just_Good_Ol'_Boys_Moe_Bandy.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Ladies Love Country Boys",
+      "artist": "Trace Adkins",
+      "has_synced": true,
+      "path": "select/19_Ladies_Love_Country_Boys_Trace_Adkins.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Boys&Girls",
+      "artist": "浜崎 あゆみ",
+      "has_synced": false,
+      "path": "select/pl_01_Boys&Girls_浜崎_あゆみ.txt"
+    }
+  ]
+}
